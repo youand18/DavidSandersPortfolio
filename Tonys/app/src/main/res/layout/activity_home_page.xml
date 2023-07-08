@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomePageActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/flashcardsButton"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="end"
+            android:text="Flashcards" />
+        <Button
+            android:id="@+id/guessingGameButton"
+            android:layout_width="412dp"
+            android:layout_height="240dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="end"
+            android:text="Guessing Game" />
+        <!--<Button
+            android:id="@+id/inputButton"
+            android:layout_width="412dp"
+            android:layout_height="180dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="end"
+            android:text="Input New Award" />-->
+        <Button
+            android:id="@+id/viewButton"
+            android:layout_width="412dp"
+            android:layout_height="240dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="end"
+            android:text="View Awards" />
+
+    </LinearLayout>
+</RelativeLayout>

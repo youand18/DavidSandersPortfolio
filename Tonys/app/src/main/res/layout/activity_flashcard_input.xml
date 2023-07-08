@@ -1,0 +1,56 @@
+<!-- activity_flashcard_input.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp">
+
+        <Button
+            android:id="@+id/backToHomeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="Back to Home" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <EditText
+        android:id="@+id/editTextYearWon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Year Won" />
+
+    <Spinner
+        android:id="@+id/spinnerCategoryWon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Category Won" />
+
+
+    <EditText
+        android:id="@+id/editTextWhoWon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Who Won" />
+
+    <EditText
+        android:id="@+id/editTextWhatShowWon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="What Show Won" />
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Submit" />
+
+</LinearLayout>
