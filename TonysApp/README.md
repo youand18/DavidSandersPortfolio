@@ -1,8 +1,9 @@
-# Java Final App
+# Tony Awards Java App
 
 ## Current Activity Options
 1. Flashcards Activity
 2. Guessing Game Activity
+3. Viewing Gallery
 
 
 
