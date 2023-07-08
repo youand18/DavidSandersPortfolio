@@ -1,6 +1,6 @@
 ## Craps Game
 ### Startup:
-    1. run the craps.py script using Python in the project1 folder.
+    1. run the craps.py script using Python in the craps folder.
     2. Fullscreen your terminal window so you can see the whole board.
 
 Side note: I could try to explain Craps but the [Venetian](https://www.venetianlasvegas.com/casino/table-games/craps-basic-rules.html)
