@@ -31,7 +31,4 @@ The Guessing Game consists of a question pulled from the Tony Award Winner csv f
 
 The user is presented with 4 choices, one of which is correct, and none of the choices will be the same.
 
-## Testing Screenshots
 
-![](Screenshots/tonyTest.png)
-![](Screenshots/flashcardTest.png)
