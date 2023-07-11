@@ -5,7 +5,7 @@
 2. Guessing Game Activity
 3. Viewing Gallery
 
-(Link to Video Demonstration)[https://drive.google.com/file/d/1ZYOC64vxtOGoyDISFIBCqUKbrYGhUrjr/view?usp=sharing]
+[Link to Video Demonstration](https://drive.google.com/file/d/1ZYOC64vxtOGoyDISFIBCqUKbrYGhUrjr/view?usp=sharing)
 
 ## Flashcards Screenshots
 
